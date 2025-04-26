@@ -8,3 +8,9 @@ I built a Resume Filter Application using Python + Pandas!
 ▶️ App instantly searches and lists all matching candidates.
 
 ▶️ Option to search again without restarting!
+
+
+
+
+#
+![image](https://github.com/user-attachments/assets/dc3646cb-eea2-44af-9c8a-a22c88e04d2f)
